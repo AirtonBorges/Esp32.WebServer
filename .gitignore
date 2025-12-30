@@ -1,0 +1,7 @@
+.pio
+lib
+test
+.vscode/
+!.vscode/extensions.json
+
+include/env.h
